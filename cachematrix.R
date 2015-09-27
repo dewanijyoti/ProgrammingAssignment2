@@ -1,4 +1,4 @@
-### These functions cache a matrix and returns inverse of matrix and caches it for further use.
+## These functions cache a matrix and returns inverse of matrix and caches it for further use.
 ##It checks if inverse is already calculated then it take the cached value of 
 ## inverse of matrix else it calculates inverse and caches the value
 ## 
